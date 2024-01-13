@@ -54,3 +54,6 @@ migrations.json
 
 # Shouldn't happen, but backup since we have a script that generates these locally
 *.pem
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
